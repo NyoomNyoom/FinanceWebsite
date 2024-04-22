@@ -1,4 +1,4 @@
-[![.NET passing](https://github.com/NyoomNyoom/FinanceWebsite/blob/main/.github/workflows/dotnet.yml/badge.svg)](https://github.com/NyoomNyoom/FinanceWebsite/blob/main/.github/workflows/dotnet.yml)
+[![.NET](https://github.com/NyoomNyoom/FinanceWebsite/actions/workflows/dotnet.yml/badge.svg)](https://github.com/NyoomNyoom/FinanceWebsite/actions/workflows/dotnet.yml)
 # Finance Website
 ## About
 A personalised Blazor website that I am making to help me do my budgeting and finances easier!!
