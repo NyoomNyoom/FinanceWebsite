@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Coding\\financeWebsite\\FinanceWebsite\\FinanceWebsite.csproj": {}
+    "a:\\Coding\\financeWebsite\\FinanceWebsite\\FinanceWebsite.csproj": {}
   },
   "projects": {
-    "A:\\Coding\\financeWebsite\\FinanceWebsite\\FinanceWebsite.csproj": {
+    "a:\\Coding\\financeWebsite\\FinanceWebsite\\FinanceWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Coding\\financeWebsite\\FinanceWebsite\\FinanceWebsite.csproj",
+        "projectUniqueName": "a:\\Coding\\financeWebsite\\FinanceWebsite\\FinanceWebsite.csproj",
         "projectName": "FinanceWebsite",
-        "projectPath": "A:\\Coding\\financeWebsite\\FinanceWebsite\\FinanceWebsite.csproj",
+        "projectPath": "a:\\Coding\\financeWebsite\\FinanceWebsite\\FinanceWebsite.csproj",
         "packagesPath": "C:\\Users\\Jackson North\\.nuget\\packages\\",
-        "outputPath": "A:\\Coding\\financeWebsite\\FinanceWebsite\\obj\\",
+        "outputPath": "a:\\Coding\\financeWebsite\\FinanceWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
